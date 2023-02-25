@@ -1,0 +1,12 @@
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/bin/Debug/net6.0/Donguler for loop break continue.deps.json
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/bin/Debug/net6.0/Donguler for loop break continue.dll
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/bin/Debug/net6.0/Donguler for loop break continue.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/obj/Debug/net6.0/Donguler for loop break continue.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/obj/Debug/net6.0/Donguler for loop break continue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/obj/Debug/net6.0/Donguler for loop break continue.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/obj/Debug/net6.0/Donguler for loop break continue.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/obj/Debug/net6.0/Donguler for loop break continue.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/obj/Debug/net6.0/Donguler for loop break continue.dll
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/obj/Debug/net6.0/refint/Donguler for loop break continue.dll
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/obj/Debug/net6.0/Donguler for loop break continue.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Donguler for loop break continue/Donguler for loop break continue/obj/Debug/net6.0/ref/Donguler for loop break continue.dll
